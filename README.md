@@ -10,3 +10,4 @@ https://www.kaggle.com/datasets/hashimkhanwazir/global-population-and-migration-
 
 https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/annual-reports.html
 
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD 
