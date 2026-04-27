@@ -1,0 +1,19 @@
+
+Clustering Analysis of Enforcement Behavior
+
+When we looked closely at the monthly enforcement data, it became clear that things didn't follow one steady path. Instead, different months fell into distinct groups, each showing a particular way enforcement was handled. Some groups reflected times when there wasn't much enforcement happening, while others showed periods with a lot more detentions or just higher overall activity.
+
+You really see these shifts during big disruptions. For instance, enforcement activity dropped sharply in 2020, and that period formed its own unique group. This wasn't just a normal up-and-down; it looked more like a big change, suggesting outside factors, like the COVID-19 pandemic, really affected how enforcement worked.
+
+Also, the way we grouped things showed that enforcement priorities aren't fixed. Some times seemed to focus more on detention, while others saw more removals or arrests. This tells us that the overall enforcement plan changes over time, rather than staying the same.
+
+All in all, our findings suggest that U.S. immigration enforcement has gone through roughly three different phases. There was a period in the early 2010s with very intense enforcement, followed by a longer stretch where things were more stable and moderate. Then, around 2020, we entered a new phase of disruption. This really supports the idea that enforcement doesn't just stick to one track; it changes and adapts because of bigger policy shifts and what's happening in society.
+
+Figures
+
+Figure 1: Elbow Method (see elbow_method.png)
+Figure 2: Clusters of Enforcement Behavior (see cluster_scatter.png)
+Figure 3: Cluster Assignment Over Time (see cluster_over_time.png)
+Figure 4: Removals vs Detentions by Cluster (see removals_vs_detentions.png)
+
+Plots are included in the /Notebooks/kayo_notebooks/plots/ directory.
