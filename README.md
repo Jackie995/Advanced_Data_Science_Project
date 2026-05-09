@@ -1,6 +1,6 @@
-## Advanced Data Science Project
+## Enforcement Patterns and Policy Shifts in U.S. Immigration: A Data-Driven Analysis
 
-Data science project exploring immigration-related trends using public datasets, with analysis and modeling work captured in notebooks.
+A data science project exploring immigration-related trends using public datasets, with analysis and modeling work captured in notebooks.
 
 ### Project report
 
